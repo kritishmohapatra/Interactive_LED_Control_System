@@ -1,3 +1,4 @@
+'''Copyright (c) 2025 Kritish Mohapatra'''
 from pyfirmata2 import * # For Arduino communication
 from customtkinter import * # For creating modern-looking GUIs
 from customtkinter import CTk # Base class for CustomTkinter windows
